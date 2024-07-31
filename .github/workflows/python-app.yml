@@ -19,4 +19,7 @@ jobs:
     - name: Run tests
       run: |
         pytest
+<<<<<<< HEAD
 
+=======
+>>>>>>> 87d8d7c5dc434a1e88d8bbfc4da5922063905e1e
